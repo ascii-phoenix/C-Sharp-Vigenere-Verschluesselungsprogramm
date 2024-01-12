@@ -10,13 +10,14 @@ Ich will ein Vigenère Verschlüsselung Programm schreiben
 
 ## 12.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
-
+Heute habe ich mit dem Projekt Vigenère Verschlüsselung Anzufangen.
+Dabei habe ich mein Program versucht so Benuzerfreundlich zu machen wie möglich in dem ich alle Inputs klein und alle Abstände löschen. Beim Porjekt will ich Code möglichst trennen und mit Objekten Arbeiten, um eine bessere Leserlichkeit zu haben
 ## 19.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Programm sollte Char in Zahlen 1-26 (englisches Alphabet) verwandeln
+- [ ] Funktion in Methods verwandeln
+- [ ] Key in Zahlen 1-26 (englisches Alphabet) verwandeln
+- [ ] Rechnen von der Vigenère Verschlüsselung (nur Verschlüsselung)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -30,10 +31,10 @@ Ich will ein Vigenère Verschlüsselung Programm schreiben
 
 ## 26.1.2024
 
-- [ ] Fünftes AP
-- [ ] Spiel endet, wenn Schlange sich selber beisst
-
-- [ ] Achtes AP
+- [ ] Rechnen von der Vigenère Verschlüsselung (Decoder)
+- [ ] Eine Input-Fläche erstellen um Key und Wert einfügbar sind
+- [ ] Fläche für den Output-wert
+- [ ] Ein Knopf, um zwischen Ver- und Entschlüsseln zu wechseln
 
 | Testfall-Nummer | Ausgangslage (Given)                                         | Eingabe (When)              | Ausgabe (Then) | Erfüllt? |
 | --------------- | ------------------------------------------------------------ | --------------------------- | -------------- | -------- |
