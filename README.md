@@ -14,9 +14,9 @@ Heute habe ich mit dem Projekt Vigenère Verschlüsselung Anzufangen.
 Dabei habe ich mein Program versucht so Benuzerfreundlich zu machen wie möglich in dem ich alle Inputs klein und alle Abstände löschen. Beim Porjekt will ich Code möglichst trennen und mit Objekten Arbeiten, um eine bessere Leserlichkeit zu haben
 ## 19.1.2024
 
-- [ ] Programm sollte Char in Zahlen 1-26 (englisches Alphabet) verwandeln
-- [ ] Funktion in Methods verwandeln
-- [ ] Key in Zahlen 1-26 (englisches Alphabet) verwandeln
+- [x] Programm sollte Char in Zahlen 1-26 (englisches Alphabet) verwandeln
+- [x] Funktion in Methods verwandeln
+- [x] Key in Zahlen 1-26 (englisches Alphabet) verwandeln
 - [ ] Rechnen von der Vigenère Verschlüsselung (nur Verschlüsselung)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
