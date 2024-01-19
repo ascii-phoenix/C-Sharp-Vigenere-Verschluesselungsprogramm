@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "vigenère-verschlüsselung/1.0.0": {
+        "runtime": {
+          "vigenère-verschlüsselung.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vigenère-verschlüsselung/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
