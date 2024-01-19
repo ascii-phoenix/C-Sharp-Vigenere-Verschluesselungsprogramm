@@ -17,15 +17,16 @@ Dabei habe ich mein Program versucht so Benuzerfreundlich zu machen wie möglich
 - [x] Programm sollte Char in Zahlen 1-26 (englisches Alphabet) verwandeln
 - [x] Funktion in Methods verwandeln
 - [x] Key in Zahlen 1-26 (englisches Alphabet) verwandeln
-- [ ] Rechnen von der Vigenère Verschlüsselung (nur Verschlüsselung)
+- [x] Rechnen von der Vigenère Verschlüsselung (nur Verschlüsselung)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1               |hallo = 7 0 11 11 14  |      hallo     |   7 0 11 11 14 |     ja   |
+| 2               |hallo = 7 0 11 11 14  |      hallo     |   7 0 11 11 14 |     ja   |
+| 3               |abc = 0 1 2           |      abc       |   0 1 2        |     ja   |
+| 4               |  abc / abc = ace     |   abc / abc    |      ace       |     ja   |
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+✍️ Heute, am 16. Januar, habe ich erfolgreich eine Klasse programmiert. Diese Klasse ermöglicht die Verarbeitung von Eingaben eines Schlüssels und einen Klartext, um den Klartext mithilfe der Vigenère-Verschlüsselung zu verschlüsseln. Leider bereitet die Entschlüsselung noch Probleme, und ich arbeitete schon lange daran, das Problem zu identifizieren und zu beheben.
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
