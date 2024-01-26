@@ -32,18 +32,20 @@ Dabei habe ich mein Program versucht so Benuzerfreundlich zu machen wie möglich
 
 ## 26.1.2024
 
-- [ ] Rechnen von der Vigenère Verschlüsselung (Decoder)
+- [x] Rechnen von der Vigenère Verschlüsselung (Decoder)
 - [ ] Eine Input-Fläche erstellen um Key und Wert einfügbar sind
 - [ ] Fläche für den Output-wert
 - [ ] Ein Knopf, um zwischen Ver- und Entschlüsseln zu wechseln
 
 | Testfall-Nummer | Ausgangslage (Given)                                         | Eingabe (When)              | Ausgabe (Then) | Erfüllt? |
 | --------------- | ------------------------------------------------------------ | --------------------------- | -------------- | -------- |
-| 5               |                                                              |                             |                |          |
+| 5.1             | eingbe in verschlüsseten code wird enschlüsselt              |  ace/abc=abc                |adg             |   nein   |
+| 5.2             | eingbe in verschlüsseten code wird enschlüsselt              |  ace/abc=abc                |abc             |   ja     |
 | 7               | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich selber | Spiel endet    |          |
 | 8               |                                                              |                             |                |          |
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 26.1 habe ich die Consoleversion beendet und damit mein mein minimummeilensten ereicht Leider ist mir aufgefahlen das der code nur funktioniert wenn der Schlussel als zweites gegeben wird. (50-100 Wörter)
+
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
