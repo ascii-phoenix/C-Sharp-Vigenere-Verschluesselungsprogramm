@@ -36,15 +36,15 @@ Heute habe ich mit dem Vigenère-Verschlüsselungsprojekt begonnen. Dabei habe i
 - [ ] Implementierung der Vigenère-Verschlüsselung (Entschlüsselung)
 - [x] Erstellung einer Eingabeoberfläche für Key und Text
 - [x] Oberfläche für den Ausgabe-Text
-- [ ] Ein Schalter, um zwischen Verschlüsselung und Entschlüsselung zu wechseln
+- [x] Ein Schalter, um zwischen Verschlüsselung und Entschlüsselung zu wechseln
 
 **Testfälle:**
 | Testfall-Nummer | Ausgangslage (Given)                                         | Eingabe (When)              | Ausgabe (Then) | Erfüllt? |
 | --------------- | ------------------------------------------------------------ | --------------------------- | -------------- | -------- |
 | 5.1             | Verschlüsselter Text wird entschlüsselt                      | ace/abc=abc                | adg            | nein     |
 | 5.2             | Verschlüsselter Text wird entschlüsselt                      | ace/abc=abc                | abc            | ja       |
-| 7               | Spiel gestartet, Schlange lang genug, dass sie sich beißen kann | Schlange beißt sich selber | Spiel endet    |          |
-| 8               |                                                              |                             |                |          |
+| 6               | richText kann input speichern                                 | Hallo welt = Hallo welt   |    Hallo welt  | ja
+| 7               |  richText kan ausgegeben werden                              |    Hallo welt = Hallo welt |    Hallo welt   |    ja    |
 
 *Heute am 26.1 habe ich die Konsolenversion beendet und somit mein Minimum-Meilenstein erreicht. Leider ist mir aufgefallen, dass der Code nur funktioniert, wenn der Schlüssel als zweites gegeben wird. Auch während der Programmierung der Ausgabeoberfläche ist mir aufgefallen, dass die Entschlüsselung bei komplizierteren Eingaben nicht funktioniert. Meine momentane Vermutung ist, dass Leerzeichen vom Code nicht vertragen werden.*
 
