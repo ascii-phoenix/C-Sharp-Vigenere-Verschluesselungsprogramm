@@ -29,8 +29,6 @@ Heute habe ich mit dem Vigenère-Verschlüsselungsprojekt begonnen. Dabei habe i
 
 *Heute, am 16. Januar, habe ich erfolgreich eine Klasse programmiert. Diese Klasse ermöglicht die Verarbeitung von Eingaben eines Schlüssels und eines Klartexts, um den Klartext mithilfe der Vigenère-Verschlüsselung zu verschlüsseln. Leider bereitet die Entschlüsselung noch Probleme, und ich arbeite daran, das Problem zu identifizieren und zu beheben.*
 
-☝️ *Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf GitHub hochzuladen und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt.*
-
 ## 26.1.2024
 
 - [ ] Implementierung der Vigenère-Verschlüsselung (Entschlüsselung)
@@ -46,16 +44,16 @@ Heute habe ich mit dem Vigenère-Verschlüsselungsprojekt begonnen. Dabei habe i
 | 6               | richText kann input speichern                                 | Hallo welt = Hallo welt   |    Hallo welt  | ja
 | 7               |  richText kan ausgegeben werden                              |    Hallo welt = Hallo welt |    Hallo welt   |    ja    |
 
-*Heute am 26.1 habe ich die Konsolenversion beendet und somit mein Minimum-Meilenstein erreicht. Leider ist mir aufgefallen, dass der Code nur funktioniert, wenn der Schlüssel als zweites gegeben wird. Auch während der Programmierung der Ausgabeoberfläche ist mir aufgefallen, dass die Entschlüsselung bei komplizierteren Eingaben nicht funktioniert. Meine momentane Vermutung ist, dass Leerzeichen vom Code nicht vertragen werden.*
-
-☝️ *Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf GitHub hochzuladen und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt.*
+Heute am 26.1 habe ich die Konsolenversion beendet und somit mein Minimum-Meilenstein erreicht. Leider ist mir aufgefallen, dass der Code nur funktioniert, wenn der Schlüssel als zweites gegeben wird. Auch während der Programmierung der Ausgabeoberfläche ist mir aufgefallen, dass die Entschlüsselung bei komplizierteren Eingaben nicht funktioniert. Meine momentane Vermutung ist, dass Leerzeichen vom Code nicht vertragen werden.*
 
 ## 16.2.2024
 
-*Heute am 23.1 habe ich... (50-100 Wörter)*
+Heute, am 23.1., habe ich mein Programm erweitert, um während des Codierens weniger Einschränkungen zu haben. Mit dem aktualisierten Code kann man nun nahezu alle im ASCII-Code vorhandenen Buchstaben verwenden, um Text mit der Vigenère-Verschlüsselung zu verschlüsseln. Dies habe ich erreicht, indem ich eine abgeleitete Klasse erstellt habe, bei der ein char nicht nur die Kleinbuchstaben des ASCII-Standards enthält.
 
 ## Reflexion
+DDiese Lernperiode war meiner Meinung nach die beste für mich, da ich mich ausschließlich auf das Programmieren fokussiert habe und somit kein Hin und Her zwischen verschiedenen Projekten hatte. Das gewählte Thema hat mir enorme Fähigkeiten im Umgang mit objektorientierter Programmierung vermittelt, und insgesamt habe ich viel über C# gelernt.
 
-*Meine Zusammenfassungen in Bezug auf meinen VBV bilden einen zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).*
+Leider ist mir oft aufgefallen, dass ich den Code nicht sauber geschrieben habe, und die Tests zuerst relativ simpel gehalten habe (keine Stresstests)
 
 *Zusätzlich reflektiere ich über die Länge der Projekte: Die 10-wöchige LP2 und die 4-wöchige LP3. Fand ich die 10-wöchige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für meine Planung der zukünftigen LP?*
+4-wöchige LP war für mich angenehmer, da ich mir 4 Wochen besser vorstellen und einplanen kann als 10 Wochen. Dies führte dazu, dass ich nicht mein alles in ein Projekt gab und meine Lernfähigkeit dadurch eingeschränkt war.
