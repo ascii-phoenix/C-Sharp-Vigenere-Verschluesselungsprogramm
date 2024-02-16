@@ -55,5 +55,7 @@ DDiese Lernperiode war meiner Meinung nach die beste für mich, da ich mich auss
 
 Leider ist mir oft aufgefallen, dass ich den Code nicht sauber geschrieben habe, und die Tests zuerst relativ simpel gehalten habe (keine Stresstests)
 
+Darum setze ich als Ziel für die nächst Lernperiode, direkt einen sauberen Code zu schreiben und für Testfälle härtere Anforderungen zu stellen.
+
 *Zusätzlich reflektiere ich über die Länge der Projekte: Die 10-wöchige LP2 und die 4-wöchige LP3. Fand ich die 10-wöchige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für meine Planung der zukünftigen LP?*
 4-wöchige LP war für mich angenehmer, da ich mir 4 Wochen besser vorstellen und einplanen kann als 10 Wochen. Dies führte dazu, dass ich nicht mein alles in ein Projekt gab und meine Lernfähigkeit dadurch eingeschränkt war.
