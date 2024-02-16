@@ -1,21 +1,22 @@
 ﻿using System;
-using vigenère_verschlüsselungO;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
 
-namespace vigenère_verschlüsselung
+namespace vigenère_verschlüsselung_WinForms
 {
-    internal class Program
+    internal static class Program
     {
-        static void Main(string[] args)
-       {
-            Verschluessung vigenère_verschl = new Verschluessung();
-            Console.WriteLine("input Text");
-            vigenère_verschl.clearText = Console.ReadLine();
-            Console.WriteLine("input Key");
-            vigenère_verschl.key = Console.ReadLine();
-            Console.WriteLine(vigenère_verschl.codedText);
-
-
-
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
         }
-    } 
+    }
 }
